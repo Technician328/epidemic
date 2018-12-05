@@ -1,2 +1,3 @@
 # epidemic
 Codes for a STEM epidemic Course
+Epidemics have ever been a great concern of human kind and we are still moved by the dramatic descriptions that arrive to us from the past, as in Lucretiuss sixth book of De Rerum Natura or as in other more recent descriptions that we ﬁnd in the literature. In extreme cases, a single disease outbreak can have a signiﬁcant eﬀect on a whole civilization. as with the epidemics started by the arrival of Europeans in the Americas, or the outbreak of bubonic plague that killed twenty percent of the population of Europe over a seven-year period in the 1300s.
